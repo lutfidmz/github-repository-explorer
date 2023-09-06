@@ -5,9 +5,8 @@ Deployment [https://grexplore.vercel.app/](https://grexplore.vercel.app)
 
 - [Features](#rocket-features)
 - [Installation](#construction_worker-installation)
-- [Getting Started](#runner-getting-started)
 - [Found a bug? Missing a specific feature?](#bug-issues)
-- [Contributing](#tada-contributing)
+- [Techstack](#tada-techstack)
 - [License](#closed_book-license)
 
 # :rocket: Features
