@@ -1,4 +1,5 @@
-## [![Author](https://img.shields.io/badge/author-Lutfi_zain-3D3D4D?style=flat-square)](https://github.com/lutfidmz)
+# Github Repository Explorer
+Deployment [https://grexplore.vercel.app/](https://grexplore.vercel.app)
 
 # :pushpin: Table of Contents
 
