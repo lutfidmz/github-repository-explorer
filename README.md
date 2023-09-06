@@ -1,34 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## [![Author](https://img.shields.io/badge/author-Lutfi_zain-3D3D4D?style=flat-square)](https://github.com/lutfidmz)
 
-## Getting Started
+# :pushpin: Table of Contents
 
-First, run the development server:
+- [Features](#rocket-features)
+- [Installation](#construction_worker-installation)
+- [Getting Started](#runner-getting-started)
+- [Found a bug? Missing a specific feature?](#bug-issues)
+- [Contributing](#tada-contributing)
+- [License](#closed_book-license)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+# :rocket: Features
+
+- Explore User's Repositories
+- Show repository details such as Stars and Fork
+
+# :construction_worker: Installation
+
+**You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
+
+```
+git clone https://github.com/lutfidmz/github-repository-explorer.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+git clone git@github.com:lutfidmz/github-repository-explorer.git
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Install dependencies**
 
-## Learn More
+```
+npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+**Install dependencies**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+set GITHUB_PERSONAL_ACCESS_TOKEN in .env
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Start development server**
 
-## Deploy on Vercel
+```
+npm run dev
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# :bug: Issues
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feel free to **file a new issue** with a respective title and description on the [GitHub Explorer](https://github.com/lutfidmz/github-repository-explorer/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+
+# :tada: Techstack
+
+- [React & NextJS](https://nextjs.org/)
+- [Shadcn UI](https://ui.shadcn.com/)
+
+# :closed_book: License
+
+Released in 2023
+This project is under the [MIT license](https://github.com/lutfidmz/github-repository-explorer/master/LICENSE).
+
+Made with love by [Lutfi Zain](https://github.com/LauraBeatris)🚀
